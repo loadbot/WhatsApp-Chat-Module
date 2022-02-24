@@ -35,7 +35,7 @@
                         If you face any issues, our team is always ready to help you.
                         <br>
                         <br>
-                        Rating our module with your honest feedback is appreciated in advance and will help us.
+                        Rating our module with your honest feedback is appreciated in advance and will help us.</i></span>
                     </div>
                 </div>
             </div>
