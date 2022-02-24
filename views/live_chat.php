@@ -32,10 +32,10 @@
                         <br>
                         <span style="color:rgba(0, 0, 0, 0.5);"><i>Thank you for using our module!
                         <br>
-                        If you face any issues, our team is always ready to help you at <a href="#" target="_blank"><b>Clients Area</b></a>
+                        If you face any issues, our team is always ready to help you.
                         <br>
                         <br>
-                        Rating our module with your honest feedback on CodeCanyon is appreciated in advance and will help us.</i></span>
+                        Rating our module with your honest feedback is appreciated in advance and will help us.
                     </div>
                 </div>
             </div>
